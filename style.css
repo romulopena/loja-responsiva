@@ -1,7 +1,4 @@
-*{ /*Seletor universal para resetar as bordas da páginas*/
-    padding:0px;
-    margin:0px;
-}
+
 :root{/*seletor raiz para variáveis*/
     --cor-de-fundo: #bcbcee;
     --cor-da-letra:#ffd000;
